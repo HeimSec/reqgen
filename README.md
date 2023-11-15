@@ -3,6 +3,10 @@
 reqgen is a command-line utility that generates a 'requirements.txt' file listing installed Python packages in your environment.<br>
 It provides a simple interface to view dependencies or create the 'requirements.txt' file effortlessly.
 
+## Screenshot
+![reqgen](https://raw.githubusercontent.com/HeimSec/reqgen/main/ironcore%40lab_%20%7E_Development_Requirements-File-Generator%2015.11.2023%2023_23_24.png)
+
+
 ## Usage
 
 To compile and use reqgen, follow these steps:
